@@ -2,7 +2,7 @@
 
         <div class="site">
             <div style="width:50%;text-align:center;margin: 0 auto;">
-            <img src="{{ site.url }}/assets/logo.png" style="width:100%;height:auto"/>
+                <a href="/"><img src="{{ site.url }}/assets/logo.png" style="width:100%;height:auto"/></a>
             </div>
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
@@ -26,5 +26,6 @@
               </p>
             </div>
           </div>
-        </div>
+      </div>
+      {% include nav.html %}
 {% include foot.html %}
