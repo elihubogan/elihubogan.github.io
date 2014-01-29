@@ -1,43 +1,4 @@
 {% include head.html %}
-
-        <div class="site">
-            <div style="width:50%;text-align:center;margin: 0 auto;">
-                <a href="/"><img src="{{ site.url }}/assets/logo.png" style="width:100%;height:auto"/></a>
-                <p>Web Design & Print Media</p>
-            </div>
-            <hr />
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Elihu Bogan<br />
-                Web Development<br />
-                elihubogan@gmail.com 
-              </p>
-            </div>
-            <div class="contact">
-            <form action="http://getsimpleform.com/messages?form_api_token=3a3427bde9d73dcd1ce31afa6f350af8" method="post">
-            <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-            <input type='hidden' name='redirect_to' value='http://elihubogan.com' />
-            <!-- all your input fields here.... -->
-            <input type='text' name='your-name' placeholder="Name?">
-            <input type='email' name='your-email' placeholder="Email address?">
-            <textarea name="message" placeholder="What can we help you with?"></textarea>
-            <input type='submit' value='Test form' />
-            </form>
-              <p>
-                <a href="https://github.com/elihubogan">github.com/elihubogan</a><br />
-                <a href="https://twitter.com/elihubogan">twitter.com/elihubogan</a><br />
-              </p>
-            </div>
-        </div>
-        <hr />
-      </div>
-      {% include nav.html %}
+    {{ content }}
+{% include nav.html %}
 {% include foot.html %}
