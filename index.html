@@ -19,7 +19,7 @@ I am a happy father of two, and my fiancée and I split our time between Manhatt
 
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts limit: 2 %}
+    {% for post in site.posts %}
     <div class="post color">
         <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 
