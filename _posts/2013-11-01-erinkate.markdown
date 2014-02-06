@@ -1,0 +1,18 @@
+---
+layout: default 
+category: client-work
+title: 'Erin Kate Photography'
+date: 2013-11-01
+excerpt_image: 
+  - erinkate.png
+period: 'November 2013'
+image:
+  - erinkate.png
+image_alt:
+  - ''
+image_caption:
+  - ''
+---
+{{ page.title }}
+{% include page-loop.html %}
+Blog redesign for Erin Kate to bring her blog styling in line with her portfolio site.

@@ -1,0 +1,19 @@
+---
+layout: default 
+category: client-work
+title: 'Ray Kang - New Site/Blog Combo'
+date: 2013-09-01
+excerpt_image: 
+  - raykang.png
+period: 'September 2013'
+image:
+  - raykang.png
+image_alt:
+  - ''
+image_caption:
+  - ''
+---
+{{ page.title }}
+{% include page-loop.html %}
+Another beautiful site, this one by our friend Ray Kang. WordPress back-end, custom contact form and social media integration. Again, nothing but mobile-friendly HTML, CSS and Javascript. The site’s mobile version is seamless – check it out!
+

@@ -1,0 +1,17 @@
+---
+layout: default 
+category: client-work
+title: 'Jen Huang Photography - Flash Conversion'
+date: 2013-08-01
+excerpt_image: 
+  - jhp.png
+period: 'August 2013'
+image:
+  - jhp.png
+image_alt:
+  - ''
+image_caption:
+  - ''
+---
+{{ page.title }}
+{% include page-loop.html %}

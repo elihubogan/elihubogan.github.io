@@ -1,0 +1,17 @@
+---
+layout: default 
+category: client-work
+title: 'Jen Huang Blog'
+date: 2013-03-01
+excerpt_image: 
+  - jhb.png
+period: 'March 2013'
+image:
+  - jhb.png
+image_alt:
+  - ''
+image_caption:
+  - ''
+---
+{{ page.title }}
+{% include page-loop.html %}

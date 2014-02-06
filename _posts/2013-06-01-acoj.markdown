@@ -1,0 +1,17 @@
+---
+layout: default 
+category: family 
+title: 'A Cup of Jo'
+date: 2013-06-01
+excerpt_image: 
+  - acoj.png
+period: 'June 2013'
+image:
+  - acoj.png
+image_alt:
+  - ''
+image_caption:
+  - ''
+---
+{{ page.title }}
+{% include page-loop.html %}
