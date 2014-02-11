@@ -23,30 +23,25 @@ time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline;
 }
-
 /* line 22, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
-
 /* line 24, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
-
 /* line 26, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-
 /* line 28, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
-
 /* line 30, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
@@ -56,40 +51,35 @@ q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
-
 /* line 32, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
+  max-width: 100%;
+  height: auto;
 }
-
 /* line 116, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
-
 /* line 17, ../_sass/screen.scss */
 .logo {
   max-width: 200px;
 }
-
 /* line 21, ../_sass/screen.scss */
 .odd {
   background-color: #fff;
   color: #495168;
 }
-
 /* line 25, ../_sass/screen.scss */
 .even {
   background-color: #d8ccb2;
   color: #d8ccb2;
 }
-
 /* line 29, ../_sass/screen.scss */
 .post {
   max-width: 700px;
   margin: 0 auto 80px;
 }
-
 /* line 33, ../_sass/screen.scss */
 .color {
   max-width: 100%;
@@ -97,4 +87,23 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   background-color: #495168;
   border-top: 1px solid #2a2344;
   border-bottom: 1px solid #2a2344;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: none;
+}
+.modal{
+    display: none;
+    background:#fff;
+    padding:0 20px 20px;
+    overflow:auto;
+    z-index:1001;
+    position:absolute;
+    width: 500px;
+    min-height: 300px;
 }
