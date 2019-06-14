@@ -1,2 +1,0 @@
-elihubogan.github.io
-====================
