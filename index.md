@@ -3,7 +3,7 @@ layout: default
 ---
 Hi, I’m Elihu Bogan and I'm a business owner in Santa Barbara, California.
 
-I'm passionate about the company my wife and I have built, and about the quality of life we live with our kids.
+I'm passionate about the companies my wife and I have built, and about the quality of life we live with our kids. I play ice hockey, chess, and I'm learning how to sail on Ideal 18s and J/24s. 
 
 My formal education and experience is in math, economics, statistics, and finance. I'm a self-taught programmer with an interest in fundamental and technical trading models, specifically in portfolio optimization, momentum strategies, and the use of leverage through futures, long-dated options, and portfolio margin. I have extensive business experience in business formation, lean (and not-so-lean) start-up strategy, financing, accounting, and marketing/social media strategy.
 
@@ -43,13 +43,18 @@ We are in the midst of a once-every-100-years renovation of our 1903 Queen Anne 
 
 ## Under construction below
 
-    Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Link to the blog](./blog.html).
+
 
     [Link to the blog](./blog.html).
+
+    Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
     There should be whitespace between paragraphs.
 
     There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 
 
 ## Header 2
