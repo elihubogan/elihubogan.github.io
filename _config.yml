@@ -1,12 +1,10 @@
 name: Elihu Bogan
-markdown: redcarpet
-pygments: true
 image_dir: /assets/images
 
 theme: jekyll-theme-minimal
 
 title: Elihu Bogan
-description: Global Placeholder
+description: New York and Santa Barbara
 logo: /assets/images/headshot.png
 show_downloads: false
 google_analytics:
