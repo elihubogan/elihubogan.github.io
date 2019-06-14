@@ -5,8 +5,8 @@ image_dir: /assets/images
 
 theme: jekyll-theme-architect
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
-logo: [Location of the logo]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+title: Elihu Bogan
+description: Global Placeholder
+logo: image_dir/headshot.png
+show_downloads: false
+google_analytics:
