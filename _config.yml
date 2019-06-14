@@ -7,6 +7,6 @@ theme: jekyll-theme-minimal
 
 title: Elihu Bogan
 description: Global Placeholder
-logo: image_dir/headshot.png
+logo: /assets/images/headshot.png
 show_downloads: false
 google_analytics:
