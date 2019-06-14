@@ -10,9 +10,31 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Heirloom Bindery
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Heirloom Bindery is a fine-art print shop and album/book publisher based in Santa Barbara. We service professional photographers worldwide (and their clients).
+
+# Santa Barbara House
+
+We are in the midst of a once-every-100-years renovation of our 1903 Queen Anne home and grounds in Santa Barbara, CA. When finished, not only will it be an intimate and exclusive wedding and event venue, but hopefully Airbnb will help put my kids through college.
+
+# Jen Huang Photography
+
+My wife, Jen. Check out her (and sometimes my) work at [JenHuangPhoto.com](https://jenhuangphoto.com).
+
+# Previous work
+
+- Web Development
+  - Front-end: HTML / CSS / SASS / Javascript
+  - Back-end: MySQL mostly
+  - Platforms: Wordpress / Shopify / Squarespace
+- Statistical Analysis
+  - Python, R, SAS, Stata, Excel
+  - MBS desk at multi-strategy hedge fund in NYC (2008 RIP)
+  - Analyst at NERA Economic Consulting
+    - Intellectual Property / Antitrust
+    - Environmental Economics
+    - Cost-benefit studies, expert witness testimony, etc.
 
 ## Header 2
 
