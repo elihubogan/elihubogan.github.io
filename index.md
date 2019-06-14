@@ -4,33 +4,34 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to the blog](./blog.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Heirloom Bindery
+## Heirloom Bindery
 
 Heirloom Bindery is a fine-art print shop and album/book publisher based in Santa Barbara. We service professional photographers worldwide (and their clients).
 
-# Santa Barbara House
+## Santa Barbara House
 
 We are in the midst of a once-every-100-years renovation of our 1903 Queen Anne home and grounds in Santa Barbara, CA. When finished, not only will it be an intimate and exclusive wedding and event venue, but hopefully Airbnb will help put my kids through college.
 
-# Jen Huang Photography
+## Jen Huang Photography
 
 My wife, Jen. Check out her (and sometimes my) work at [JenHuangPhoto.com](https://jenhuangphoto.com).
 
-# Previous work
+## Previous work
 
 - Web Development
   - Front-end: HTML / CSS / SASS / Javascript
   - Back-end: MySQL mostly
   - Platforms: Wordpress / Shopify / Squarespace
-- Statistical Analysis
+- Finance / Statistical Analysis
+  - CFA Level III (Completed 2010)
   - Python, R, SAS, Stata, Excel
-  - MBS desk at multi-strategy hedge fund in NYC (2008 RIP)
+  - MBS desk at multi-strategy hedge fund in NYC (RIP 2008)
   - Analyst at NERA Economic Consulting
     - Intellectual Property / Antitrust
     - Environmental Economics
