@@ -1,26 +1,27 @@
 ---
 layout: default
 ---
+Hi, I’m Elihu Bogan and I'm a business owner in Santa Barbara, California.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm passionate about the company my wife and I have built, and about the quality of life we live with our kids.
 
-[Link to the blog](./blog.html).
+My formal education and experience is in math, economics, statistics, and finance. I'm a self-taught programmer with an interest in fundamental and technical trading models, specifically in portfolio optimization, momentum strategies, and the use of leverage through futures, long-dated options, and portfolio margin. I have extensive business experience in business formation, lean (and not-so-lean) start-up strategy, financing, accounting, and marketing/social media strategy.
 
-There should be whitespace between paragraphs.
+I am becoming a more active angel investor and am interested in consulting, advisory and board member work. Please feel free to get in touch about any or all of these opportunities.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Our Companies
 
-## Heirloom Bindery
+**Heirloom Bindery**
 
-Heirloom Bindery is a fine-art print shop and album/book publisher based in Santa Barbara. We service professional photographers worldwide (and their clients).
+A fine-art print shop and album/book publisher based in Santa Barbara. We service professional photographers worldwide (and their clients).
 
-## Santa Barbara House
-
-We are in the midst of a once-every-100-years renovation of our 1903 Queen Anne home and grounds in Santa Barbara, CA. When finished, not only will it be an intimate and exclusive wedding and event venue, but hopefully Airbnb will help put my kids through college.
-
-## Jen Huang Photography
+**Jen Huang Photography**
 
 My wife, Jen. Check out her (and sometimes my) work at [JenHuangPhoto.com](https://jenhuangphoto.com).
+
+**Santa Barbara House**
+
+We are in the midst of a once-every-100-years renovation of our 1903 Queen Anne home and grounds in Santa Barbara, CA. When finished, not only will it be an intimate and exclusive wedding and event venue, but hopefully Airbnb will help put my kids through college.
 
 ## Previous work
 
@@ -28,14 +29,28 @@ My wife, Jen. Check out her (and sometimes my) work at [JenHuangPhoto.com](https
   - Front-end: HTML / CSS / SASS / Javascript
   - Back-end: MySQL mostly
   - Platforms: Wordpress / Shopify / Squarespace
-- Finance / Statistical Analysis
+- Finance
   - CFA Level III (Completed 2010)
-  - Python, R, SAS, Stata, Excel
+  - Python, R
   - MBS desk at multi-strategy hedge fund in NYC (RIP 2008)
+- Statistical Analysis / Consulting
+  - SAS, Stata, Excel
   - Analyst at NERA Economic Consulting
     - Intellectual Property / Antitrust
     - Environmental Economics
-    - Cost-benefit studies, expert witness testimony, etc.
+    - Cost-benefit studies, impact and damages analyses
+    - Expert witness testimony
+
+## Under construction below
+
+    Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+    [Link to the blog](./blog.html).
+
+    There should be whitespace between paragraphs.
+
+    There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 
 ## Header 2
 
