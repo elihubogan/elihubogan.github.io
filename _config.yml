@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 image_dir: /assets/images
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 title: Elihu Bogan
 description: Global Placeholder
